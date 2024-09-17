@@ -22,3 +22,8 @@ $ npm start
 - Make sure "Developer Mode" is enabled
 - Click on "Load unpacked extension..."
 - Select the `build/` directory
+
+
+# Something Cool
+
+This is just cool...
